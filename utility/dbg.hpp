@@ -1,5 +1,5 @@
 #pragma once
-#include "str.hpp"
+#include "../utility/str.hpp"
 #include <fstream>
 
 class Dbg {

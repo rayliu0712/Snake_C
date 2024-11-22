@@ -1,12 +1,4 @@
-// game.hpp
-// drawer.hpp
-// curses.hpp
-// align.hpp
-// color.hpp
-// dbg.hpp
-// str.hpp
-
-#include "game.hpp"
+#include "engine/game.hpp"
 
 int main() {
 	try {

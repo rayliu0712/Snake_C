@@ -1,5 +1,5 @@
 #pragma once
-#include "color.hpp"
+#include "../core/color.hpp"
 #include <utility>
 using Pair2Int = pair<int, int>;
 

@@ -1,5 +1,5 @@
 #pragma once
-#include "cur.hpp"
+#include "../core/cur.hpp"
 #include <chrono>
 #include <thread>
 

@@ -1,5 +1,5 @@
 #pragma once
-#include "dbg.hpp"
+#include "../utility/dbg.hpp"
 #include <initializer_list>
 #include <ncurses.h>
 

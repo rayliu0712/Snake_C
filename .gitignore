@@ -1,3 +1,4 @@
 .vscode/
+dbg_run.sh
 log.txt
 test.cpp

@@ -1,0 +1,1 @@
+g++ main.cpp -o Snake -std=c++20 -lncurses -lfmt && ./Snake && rm ./Snake
